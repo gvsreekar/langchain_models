@@ -29,7 +29,7 @@ langchain_models/
 
 ## 🔧 Setup Instructions
 
-### 1️⃣ Clone the repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/gvsreekar/langchain_models.git
@@ -58,4 +58,6 @@ Use Poetry to run your Streamlit app:
 
 ```bash
 poetry run streamlit run research_tool.py
+
+
 
